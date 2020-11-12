@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30223.230
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vng2020", "Vng2020\Vng2020.csproj", "{FB617FE7-D6C6-423C-8969-B8E236401AF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estimulos", "Estimulos\Estimulos.csproj", "{48516238-87E3-4627-96E9-1938A6ECCE3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pipes", "Pipes\Pipes.csproj", "{8BC69715-A37E-4E3C-9CD5-C9D464137C86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB617FE7-D6C6-423C-8969-B8E236401AF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB617FE7-D6C6-423C-8969-B8E236401AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB617FE7-D6C6-423C-8969-B8E236401AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB617FE7-D6C6-423C-8969-B8E236401AF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48516238-87E3-4627-96E9-1938A6ECCE3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48516238-87E3-4627-96E9-1938A6ECCE3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48516238-87E3-4627-96E9-1938A6ECCE3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48516238-87E3-4627-96E9-1938A6ECCE3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BC69715-A37E-4E3C-9CD5-C9D464137C86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BC69715-A37E-4E3C-9CD5-C9D464137C86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BC69715-A37E-4E3C-9CD5-C9D464137C86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BC69715-A37E-4E3C-9CD5-C9D464137C86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4055D04-C220-480C-A3F3-762C00D94413}
+	EndGlobalSection
+EndGlobal
